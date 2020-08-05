@@ -22,4 +22,11 @@ java -jar ./task-manager.jar
 **Разработчик**
 ```
 Овсянников В.О. ovsyannikov_vo@nlmk.com
+
+```
+
+**Резервный репозиторий**
+```
+https://github.com/ovsyannikov-vo/jse
+
 ```
